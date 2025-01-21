@@ -1,101 +1,113 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+👋;I'm+Aman+Soni...;Nice+to+meet+you!&center=true&size=30">
-</h1>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-Full%20Stack-5C2D91?style=for-the-badge" alt="Role"/>
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-OpenAI%20%7C%20ML-FF6F00?style=for-the-badge" alt="AI"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-181717?style=for-the-badge" alt="Open Source"/>
-</div>
 
-<br>
+# 🌟 Welcome to Aman's Digital Universe! 🚀
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+Enthusiast;Full+Stack+Developer;Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <p align="center">
-  I'm a software engineer who loves building cool stuff with code! Whether it's crafting beautiful frontends, architecting robust backends, or diving into AI - I'm always up for an exciting challenge.
+  <img src="https://komarev.com/ghpvc/?username=amansoni7477030&label=Profile%20Views&color=2986cc&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/amansoni7477030?label=Followers&style=social" alt="GitHub Followers" />
 </p>
+
+</div>
+
+## 🧙‍♂️ About Me
+
+> *"Code is poetry written in logic"*
+
+I'm a passionate software engineer who thrives on turning complex challenges into elegant solutions. Whether it's crafting pixel-perfect frontends, architecting scalable backends, or exploring the fascinating world of AI - I'm always ready to push the boundaries of what's possible!
 
 <div align="center">
   <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/amansoni7477030?cardType=level&preferLogin=false"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amansoni7477030&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansoni7477030&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## 🚀 What I Do
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+### ⚙️ Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🤖 AI & Data
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-007ACC?style=for-the-badge&logo=pinecone&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🗄️ Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+## 🏆 Achievements & Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">AI & Backend</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-      </p>
+      <h3>🌟 Achievements</h3>
+      <ul>
+        <li>🏆 5-star coder on HackerRank</li>
+        <li>♟️ Chess enthusiast with 2100+ rating</li>
+        <li>🎯 Solved 500+ problems on LeetCode</li>
+        <li>🌐 Active open-source contributor</li>
+      </ul>
     </td>
     <td width="50%">
-      <h3 align="center">Frontend & DevOps</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-      </p>
+      <h3>💼 Notable Projects</h3>
+      <ul>
+        <li>🤖 <strong>Flowise AI:</strong> Contributed to making AI workflows accessible</li>
+        <li>🎯 <strong>OneYou Chatbot:</strong> Context-aware AI assistant</li>
+        <li>💡 <strong>Bosso Lighting:</strong> Smart home automation system</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-## ✨ Featured Projects
+## 📈 GitHub Contribution Graph
 
 <div align="center">
-<a href="https://github.com/FlowiseAI/Flowise">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FlowiseAI&repo=Flowise&theme=tokyonight" />
-</a>
+  
+[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amansoni7477030&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
-<br>
-
-<table>
-  <tr>
-    <td>
-      <h3>🤖 OneYou Chatbot</h3>
-      <p>Built a smart chatbot that actually understands context using OpenAI and Qdrant</p>
-    </td>
-    <td>
-      <h3>💡 Bosso Lighting</h3>
-      <p>Created an AI-powered automation tool for smart homes</p>
-    </td>
-  </tr>
-</table>
-
-## 🎯 Achievements & Fun Facts
+## 🤝 Connect With Me
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HackerRank-5%20Star%20Coder-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chess-2100+-E4E5E6?style=for-the-badge&logo=lichess&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hackathons-Winner-D14836?style=for-the-badge&logo=hack-club&logoColor=white" />
+  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amansoni7477030)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amansoni7477/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Amansoni7477030)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/amansoni7477030/)
+
 </div>
 
-## 🤝 Let's Connect!
+---
 
 <div align="center">
-  <a href="https://github.com/amansoni7477030">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/amansoni7477/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/Amansoni7477030">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/amansoni7477030/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</div>
+  
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amansoni7477030&style=flat-square&color=blue" alt="Profile views"/>
-</p>
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+### 🎯 Let's build something amazing together! 
+  
 </div>
