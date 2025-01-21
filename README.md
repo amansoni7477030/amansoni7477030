@@ -15,7 +15,7 @@
 
 > *"Code is poetry written in logic"*
 
-I'm a passionate software engineer who thrives on turning complex challenges into elegant solutions. Whether it's crafting pixel-perfect frontends, architecting scalable backends, or exploring the fascinating world of AI - I'm always ready to push the boundaries of what's possible!
+I'm a software engineer who loves tackling problems and making stuff work. Whether it's building cool websites, setting up systems, or playing around with AI, I’m all in for the challenge!
 
 <div align="center">
   <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/amansoni7477030?cardType=level&preferLogin=false"/>
