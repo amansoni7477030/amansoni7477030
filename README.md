@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to Aman's Digital Universe! 🚀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+Enthusiast;Full+Stack+Developer;Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+Enthusiast;Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amansoni7477030&label=Profile%20Views&color=2986cc&style=flat" alt="Profile Views" />
